@@ -1,5 +1,9 @@
 # Implementation of Different Architectures for Multilayer Perceptron
 
+This repository contains implementations and evaluations of different architectures for Multilayer Perceptron (MLP) models, using the Mammographic Mass Dataset from the UCI Machine Learning Repository. 
+
+The goal of this project is to explore how different configurations and architectures of MLP can impact the performance of a neural network on a real-world dataset. We implement and compare two architectures with varying parameters such as dropout rates, number of epochs, and learning rates. This analysis helps in understanding the trade-offs and effectiveness of each configuration in terms of accuracy, precision, recall, F1-score, and specificity.
+
 ## mammographic_work3
 The dataset used is the Mammographic Mass Dataset, acquired from the UCI Machine Learning Repository. Additionally, this file includes explanatory introductions about the functioning and structure of the dataset.
 
