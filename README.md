@@ -1,7 +1,5 @@
 # Implementation of Different Architectures for Multilayer Perceptron
 
-In this repository, there are three files:
-
 ## mammographic_work3
 The dataset used is the Mammographic Mass Dataset, acquired from the UCI Machine Learning Repository. Additionally, this file includes explanatory introductions about the functioning and structure of the dataset.
 
